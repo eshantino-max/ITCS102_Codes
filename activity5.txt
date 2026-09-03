@@ -1,0 +1,25 @@
+#operators
+#arithmetic operator
+# + - addition
+# - - subtraction
+# * - multiplication 
+# / - division 
+# // - floor division 
+# ** - exponentation
+# % - modulos
+
+
+a = 582394
+b = 84925
+c = 431
+d = 25
+e = 65
+f = 23
+
+sum = a + b
+multiply = c * d 
+divide = b / e
+
+print ("if you divide ", b," and" ,e, " is", divide)
+
+print ("if you would multiply ", c," and" ,d, " is", multiply)

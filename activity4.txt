@@ -1,0 +1,4 @@
+emo_phase = "to fall in love takes only a second,\r to let go takes time, \t to fall in makes us strong\t to break a promise makes the building collapses " 
+
+
+print (emo_phase)
